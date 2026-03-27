@@ -1,4 +1,4 @@
-FindDividersOfNumber. Python tutorials.  Simple Input/Output. Algorithms. Console Application. 
+IsNumberPrime. Python tutorials.  Simple Input/Output. Algorithms. Console Application. 
 A console application in the Python programming language. 
 The program does the following:
   1. Asks the user to enter a positive integer.
@@ -11,7 +11,7 @@ The program does the following:
       5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
 Developed in the Spyder integrated environment (in the Microsoft Visual Studio Code editor).
 
-FindDividersOfNumber. Занятия по Python. Простой ввод-вывод. Алгоритмы. Консольное приложение.
+IsNumberPrime. Занятия по Python. Простой ввод-вывод. Алгоритмы. Консольное приложение.
 Консольное приложение написанное на языке программирования Pascal. 
 Программа делает следующее:
   1. Просит пользователя ввести целое положительное число.
